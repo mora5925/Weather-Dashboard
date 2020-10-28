@@ -1,0 +1,25 @@
+body {
+    background-color: lightyellow;
+}
+.Main-Text {
+    padding: 10px;
+}
+
+.cardInfo {
+    margin-right: 30PX;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+header {
+    color: white;
+    background-color: rgb(32, 31, 31);
+    text-align: center;
+    padding: 2px;
+    font-size: 100%;
+    width: 100%;
+}
+
+#current-day {
+    padding: 10px;
+}
